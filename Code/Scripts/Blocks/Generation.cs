@@ -16,7 +16,7 @@ public class Generation : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        seed = Random.Range(100000, 999999);
+        seed = Random.Range(100, 100000);
         GenerateTerrain();
     }
     // Update is called once per frame
