@@ -1,0 +1,20 @@
+id: -1 
+name: Empty
+stackable: false
+lowerc: empty
+,
+id: 0
+name: Grass
+stackable: true
+lowerc: grass
+,
+id: 1
+name: Dirt
+stackable: true
+lowerc: dirt
+,
+id: 2
+name: Stone
+stackable: true
+lowerc: stone
+;
